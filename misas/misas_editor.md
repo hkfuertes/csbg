@@ -13,7 +13,7 @@ El proceso es similar al proceso hecho por un usuario. Partimos desde la pagina 
 Si la misa existe y no ha pasado, o aún no existe y eres el primero, te llevara a la página de edición como esta:
 ![misa8](images/editor_mass_blank.png)
 
->**Nota**: A partir de aqui, son los mismos pasos que para un [usuario](USUARIO.html) normal (sección: cómo proponer una misa).
+>**Nota**: A partir de aqui, son los mismos pasos que para un [usuario](/misas/usuario) normal (sección: cómo proponer una misa).
 
 ## ¿Cómo apruebo una misa?
 Hay dos formas de aprobar una misa. La primera es como hemos visto en el apartado anterior, editándola. Al guardarla como editor se aprobará directamente.
