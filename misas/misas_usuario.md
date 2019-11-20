@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Usuarios
+title: Usuario
 parent: Gestión de Misas
 permalink: misas/usuario
 ---
