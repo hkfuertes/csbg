@@ -36,4 +36,4 @@ Como ya hemos puesto los horarios de la parroquia, ya podemos crear misas. Para 
   ![Creando Misa](misas/images/mass_selected_save.png)
 6. **¡Ya tenemos la misa creada!** Ahora solo tenemos que compartir el enlace. Si hemos clicado la casilla de "Compartir" el enlace lo podra ver todo el mundo, sino, solamente gente que hayamos añadido y este registrada.
   ![Misa Creada](misas/images/mass_created.PNG)
-  > **Nota**: La misa de la imagen no es la misma que hemos creado en el tutorial, es otra que puedes consultar aqui: [https://parroquias.csbook.es/mass/view/2201911170](https://parroquias.csbook.es/mass/view/2201911170)
+  > **Nota**: La misa de la imagen no es la misma que hemos creado en el tutorial, es otra que puedes consultar [aqui](https://parroquias.csbook.es/mass/view/2201911170).
