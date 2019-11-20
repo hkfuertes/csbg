@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inicio
-permalink: index.html
+permalink: /
 nav_order: 1
 ---
 # Cancionero Católico
