@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  site:
+    container_name: guide
+    environment:
+      JEKYLL_ENV: docker
+    command: jekyll serve --watch --force_polling 
+    image: jekyll/jekyll
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
