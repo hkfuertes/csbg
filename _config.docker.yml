@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 title: Cancionero
 
 # Enable or disable the site search
