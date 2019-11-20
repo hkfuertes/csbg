@@ -1,3 +1,3 @@
-## Guias Cancionero _(aka. CSBook)_
+## Documentación Cancionero _(aka. CSBook)_
 
-Aqui se presentan las guias y la información de usa de la platforma.
+**CSBook** es un sistema de gestión de canciones, misas y cancioneros, multiparroquia, con posibilidad de exportación a Word y Powerpoint. Aqui se detallan las guias de uso, para crear, proponer, aprobar y editar [_**Misas**_](http://guias.csbook.es/misas), crear, editar, proponer y aprobar _**canciones**_, generar _**cancioneros**_ y administrar los [_**usuarios**_](http://guias.csbook.es/admin/usuarios) e información de la [_**parroquia**_](http://guias.csbook.es/admin/parroquia).

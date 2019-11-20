@@ -4,7 +4,7 @@ title: Inicio
 permalink: /
 nav_order: 1
 ---
-**CSBook** es un sistema de gestión de canciones, misas y cancioneros, multiparroquia, con posibilidad de exportación a Word y Powerpoint. Aqui se detallan las guias de uso, para crear, proponer, aprobar y editar [_**Misas**_](/misas), crear, editar, proponer y aprobar _**canciones**_, generar _**cancioneros**_ y administrar los [_**usuarios**_](/admin/usuarios) e informacion de la [_**parroquia**_](/admin/parroquia).
+**CSBook** es un sistema de gestión de canciones, misas y cancioneros, multiparroquia, con posibilidad de exportación a Word y Powerpoint. Aqui se detallan las guias de uso, para crear, proponer, aprobar y editar [_**Misas**_](/misas), crear, editar, proponer y aprobar _**canciones**_, generar _**cancioneros**_ y administrar los [_**usuarios**_](/admin/usuarios) e información de la [_**parroquia**_](/admin/parroquia).
 
 ## Primeros Pasos
 > **Nota**: Recuerda que solo un __*Administrador*__ puede realizar estos cambios.
