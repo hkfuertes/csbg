@@ -33,17 +33,18 @@ Campos genericos:
 
 ![proposal_common](images/song_version_part.png)
 
-Mas abajo vemos los campos especificos de la version, y por tanto de tu parroquia:
+Mas abajo vemos los campos especificos de la versión, y por tanto de tu parroquia:
 - **Etiquetas**: Es un campo donde poner otros titulos o nombres por los que en tu parroquia conoceis a la canción. (_ej:_ _**"Amaos"**_ tambien se conoce como _**"Como el padre me amó"**_)
-- **Cejilla**: La cejilla con que tocais esa cancion en tu parroquia.
-- **Ritmo**: El rimpo con el que la tocais. (_ej:_ 4x4)
+- **Cejilla**: La cejilla con que tocais esa canción en tu parroquia.
+- **Ritmo**: El ritmo con el que la tocais. (_ej:_ 4x4)
 - **Letra**: Este es el campo mas importante. Por defecto te viene rellando con un ejemplo para que veas como se meten los acordes y los estribillos.
 
-  > _**¡Importante!**_ Si metes los acordes de esta manera, el sistema los reconocera y se podra cambiar de tono la canción.
+  > _**¡Importante!**_ Si metes los acordes de esta manera, el sistema los reconocerá y se podrá cambiar de tono la canción.
   
-  Para meter acordes es tan sencillo como meterlos dentro de la frase entre corchetes. En la columna de ayuda de la derecha, puedes ver los acordes que pueden ser reconocidos. Por ejemplo, para la canción "Vine a alabar a Dios":
-
-  Este codigo:
+  Para añadir los acordes es tan sencillo como meterlos dentro de la frase entre corchetes `[`,`]`. 
+  > _**Nota**_ En la columna de ayuda de la derecha, puedes ver los acordes que pueden ser reconocidos. 
+  
+  Por ejemplo, para la canción "Vine a alabar a Dios", este codigo:
 
   ```
     {start_of_chorus}
@@ -61,16 +62,15 @@ Mas abajo vemos los campos especificos de la version, y por tanto de tu parroqui
     por [SOL]la que digo [mim]que...
     [DO]vine a ala[RE]bar a [SOL]Dios[RE] (bis)
   ```
-
-  Generará esto:
+  ... se convertira en esto:
 
   ![vine_alabar_dios](images/vine_alabar_dios.PNG)
 
   Aunque conforme vayais escribiendo en el cuadro de texto, vereis que se va actualizando.
 
-Una vez puesta la canción como quieres, simplemente hay que darle a guardar, en el boton azul, arriba de la pagina.
+Una vez puesta la canción como quieres, simplemente hay que darle a **guardar**, en el boton azul, arriba de la pagina.
 
-Si todo ba bien, te redirigira a la pagina de la canción:
+Si todo ba bien, te redirigirá a la pagina de la canción:
 
 ![proposal_done](images/proposal_done.PNG)
 
