@@ -37,8 +37,9 @@ Mas abajo vemos los campos especificos de la version, y por tanto de tu parroqui
 - **Etiquetas**: Es un campo donde poner otros titulos o nombres por los que en tu parroquia conoceis a la canción. (_ej:_ _**"Amaos"**_ tambien se conoce como _**"Como el padre me amó"**_)
 - **Cejilla**: La cejilla con que tocais esa cancion en tu parroquia.
 - **Ritmo**: El rimpo con el que la tocais. (_ej:_ 4x4)
-- **Letra**: Este es el campo mas importante. Por defecto te viene rellando con un ejemplo para que veas como se meten los acordes y los estribillos. 
-  > Si metes los acordes de esta manera, el sistema los reconocera y se podra cambiar de tono la canción.
+- **Letra**: Este es el campo mas importante. Por defecto te viene rellando con un ejemplo para que veas como se meten los acordes y los estribillos.
+
+  > _**¡Importante!**_ Si metes los acordes de esta manera, el sistema los reconocera y se podra cambiar de tono la canción.
   
   Para meter acordes es tan sencillo como meterlos dentro de la frase entre corchetes. En la columna de ayuda de la derecha, puedes ver los acordes que pueden ser reconocidos. Por ejemplo, para la canción "Vine a alabar a Dios":
 
@@ -67,7 +68,7 @@ Mas abajo vemos los campos especificos de la version, y por tanto de tu parroqui
 
   Aunque conforme vayais escribiendo en el cuadro de texto, vereis que se va actualizando.
 
-Una vez puesta la cancion como quieres, simplemente hay que darle a guardar, en el boton azul, arriba de la pagina.
+Una vez puesta la canción como quieres, simplemente hay que darle a guardar, en el boton azul, arriba de la pagina.
 
 Si todo ba bien, te redirigira a la pagina de la canción:
 
