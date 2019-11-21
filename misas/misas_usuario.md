@@ -4,7 +4,10 @@ title: Usuario
 parent: Gestión de Misas
 permalink: misas/usuario
 ---
-## ¿Cómo ver las misas de mí parroquia?
+## Gestión de Misas: Usuario
+Aqui se detalla como ver las misas de tu parroquia asi como poder proponer una misa.
+
+### ¿Cómo ver las misas de mí parroquia?
 Para ver las misas creadas para mi parroquia, debemos ser al menos **usuarios** (tener usuario y contraseña) simplemente debemos dirigirnos a la página _**Mi Parroquia**_.
 
 ![misa1](images/user_mass_start.png)
@@ -19,7 +22,7 @@ Pinchando en el nombre u horario de una misa entraremos en su pagina de visualiz
 |--- |--- |
 |![misa2](images/misa2.png)|![misa3](images/misa3.png)|
 
-## ¿Cómo proponer una misa?
+### ¿Cómo proponer una misa?
 Como usuario también puedes proponer misas. Podrás añadir canciones a las misas ya propuestas hasta que un editor las apruebe.
 1.	Dirígete a la página “Mi Parroquia”
 ![misa4](images/user_mass_propose.png)
