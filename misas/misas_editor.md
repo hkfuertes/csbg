@@ -8,7 +8,7 @@ nav_order: 2
 ## Gestion de Misas: _**Editor**_
 La plataforma admite varios tipos de acceso,  `Usuario`, `Editor` y `Administrador`. Estas aqui porque eres `Editor` y quieres saber que puedes hacer con la plataforma. 
 
-Con tu rol, puedes crear y aprobar misas, ademas de [ver las misas de tu parroquia](misas/usuario#cómo-ver-las-misas-de-mí-parroquia). Las misas no seran definitivas hasta que un `Editor` la apruebe.
+Con tu rol, puedes crear y aprobar misas, ademas de [ver las misas de tu parroquia](/misas/usuario#cómo-ver-las-misas-de-mí-parroquia). Las misas no seran definitivas hasta que un `Editor` la apruebe.
 
 ### ¿Cómo crear una misa?
 El `Editor` es un usuario con más poderes. Puede aprobar misas, así como crear misas que nadie puede editar.
