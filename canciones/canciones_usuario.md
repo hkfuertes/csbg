@@ -5,9 +5,9 @@ parent: Gestión de Canciones
 permalink: canciones/usuario
 ---
 ## Gestión de canciones: Usuario
-La plataforma admite varios tipos de acceso,  `usuario`, `editor` y `administrador`. Estas aqui porque eres `usuario` y quieres saber que puedes hacer con la plataforma. 
+La plataforma admite varios tipos de acceso,  `Usuario`, `Editor` y `Administrador`. Estas aqui porque eres `Usuario` y quieres saber que puedes hacer con la plataforma. 
 
-Con tu rol, puedes proponer canciones. Estas canciones no se podran usar para nada hasta que un __*editor*__ la apruebe.
+Con tu rol, puedes proponer canciones. Estas canciones no se podran usar para nada hasta que un `Editor` la apruebe.
 
 ### ¿Cómo propongo una canción?
 Para proponer una canción tienes que estar logueado con tu usuario y dirigirte a esta seccion:
