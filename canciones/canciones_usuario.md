@@ -4,7 +4,7 @@ title: Usuario
 parent: Gestión de Canciones
 permalink: canciones/usuario
 ---
-## Gestión de canciones: Usuario
+## Gestión de canciones: _**Usuario**_
 La plataforma admite varios tipos de acceso,  `Usuario`, `Editor` y `Administrador`. Estas aqui porque eres `Usuario` y quieres saber que puedes hacer con la plataforma. 
 
 Con tu rol, puedes proponer canciones. Estas canciones no se podran usar para nada hasta que un `Editor` la apruebe.
