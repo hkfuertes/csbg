@@ -67,5 +67,15 @@ Mas abajo vemos los campos especificos de la version, y por tanto de tu parroqui
 
   Aunque conforme vayais escribiendo en el cuadro de texto, vereis que se va actualizando.
 
-  Una vez puesta la cancion como quieres, simplemente hay que darle a guardar, en el boton azul, arriba de la pagina.
+Una vez puesta la cancion como quieres, simplemente hay que darle a guardar, en el boton azul, arriba de la pagina.
+
+Si todo ba bien, te redirigira a la pagina de la canción:
+
+![proposal_done](images/proposal_done.PNG)
+
+### ¿Cómo veo las propuestas y edito las mias?
+
+Una vez hecha la propuesta, y hasta que un editor la apruebe, puedes editarla. Para ello ve a la seccion `Canciones > Propuestas` y clicka en el lapicero del final de la linea. Llegaras a la pagina de edicion (_apartado anterior_).
+
+![proposals](images/proposal_edit_start.png)
 
