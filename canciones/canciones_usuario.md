@@ -3,6 +3,7 @@ layout: page
 title: Usuario
 parent: Gestión de Canciones
 permalink: canciones/usuario
+nav_order: 1
 ---
 ## Gestión de canciones: _**Usuario**_
 La plataforma admite varios tipos de acceso,  `Usuario`, `Editor` y `Administrador`. Estas aqui porque eres `Usuario` y quieres saber que puedes hacer con la plataforma. 
