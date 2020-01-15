@@ -12,6 +12,6 @@ En el video siguiente se muestra como [crear una misa](/misas/editor) y como añ
 [https://parroquias.csbook.es/mass/view/2202001190](https://parroquias.csbook.es/mass/view/2202001190)
 
 <video width="640" height="360" controls>
-  <source src="videos/ejemplo_misa_cancion.mp4" type="video/mp4">
+  <source src="/videos/videos/ejemplo_misa_cancion.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
