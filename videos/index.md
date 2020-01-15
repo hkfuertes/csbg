@@ -4,7 +4,8 @@ title: Videos
 nav_order: 5
 permalink: videos
 ---
-## Videos: __*Editor*__
+# Videos
+## __Editor__: *Crear misa y canción*
 En el video siguiente se muestra como [crear una misa](/misas/editor) y como añadir una [canción](/canciones) a la plataforma para luego añadirla a la misa.
 
 > __Nota:__ La misa creada *(salvo que se haya modificado, borrado o se haya caido el servidor)* es esta:
