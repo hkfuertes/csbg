@@ -7,7 +7,7 @@ pipeline {
       }
       steps {
         sh '''docker run --rm --volumes-from jenkins-docker -w "${WORKSPACE}"  jekyll/jekyll 
-  jekyll build --config ${WORKSPACE}/_config.docker.yml'''
+  jekyll build -s ${WORKSPACE} -d ${WORKSPACE}/GENERATED --config ${WORKSPACE}/_config.docker.yml'''
       }
     }
 
