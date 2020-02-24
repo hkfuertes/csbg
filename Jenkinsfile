@@ -2,9 +2,12 @@ pipeline {
   agent any
   stages {
     stage('Jekyll') {
+      environment {
+        JEKYLL_ENV = 'docker'
+      }
       steps {
-        sh '''docker run --rm --volumes-from jenkins-docker --workdir="${WORKSPACE}"  jekyll/jekyll 
-  jekyll build --config _config.docker.yml'''
+        sh '''docker run --rm --volumes-from jenkins-docker -w "${WORKSPACE}"  jekyll/jekyll 
+  jekyll build --config ${WORKSPACE}/_config.docker.yml'''
       }
     }
 
