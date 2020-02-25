@@ -12,8 +12,7 @@ pipeline {
 
     stage('Publish') {
       steps {
-        sh 'tar -zcvf ${WORKSPACE}/../csbook_guides_${BUILD_NUMBER}.tgz *'
-        sh 'mv ${WORKSPACE}/../csbook_guides_${BUILD_NUMBER}.tgz ${WORKSPACE}/csbook_guides_${BUILD_NUMBER}.tgz'
+        sh 'tar -zcvf ${WORKSPACE}/csbook_guides_${BUILD_NUMBER}.tgz _site'
         archiveArtifacts 'csbook_guides_${BUILD_NUMBER}.tgz'
       }
     }
