@@ -21,7 +21,7 @@ pipeline {
 
         stage('SSH') {
           steps {
-            sh 'ssh credentials(\'CSBOOK\')@csbook.es rm -rf /home/hkfuertes/csbg_jenkins/'
+            sh 'ssh hkfuertes@csbook.es rm -rf /home/hkfuertes/csbg_jenkins/'
             sh 'ssh hkfuertes@csbook.es mkdir /home/hkfuertes/csbg_jenkins/'
             sh 'scp -r _site hkfuertes@csbook.es:/home/hkfuertes/csbg_jenkins'
           }
